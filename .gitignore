@@ -1,2 +1,5 @@
 __init__.py
 secret.py
+.venv
+.vscode
+__pycache__
