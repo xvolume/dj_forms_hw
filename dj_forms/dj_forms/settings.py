@@ -25,7 +25,7 @@ SECRET_KEY = 'x_p-4bm(7(l7@+@t-@)kr0ca2&(=secret.pyn^lk1^x=j^=#s+w_^r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['xvolume.pythonanywhere.com']
 
 
 # Application definition
